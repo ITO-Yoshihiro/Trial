@@ -5,6 +5,11 @@ VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCSampleProject", "MVCSampleProject\MVCSampleProject.csproj", "{324379A2-3EB3-4464-896D-B50352629821}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{F7977BCA-3405-4DA5-8E86-079E7F4E23E2}"
+	ProjectSection(SolutionItems) = preProject
+		Documents\GitHubのプロジェクト管理機能について.pdf = Documents\GitHubのプロジェクト管理機能について.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
