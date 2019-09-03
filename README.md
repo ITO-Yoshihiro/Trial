@@ -1,2 +1,2 @@
 # Trial
-ASP .NET MVC5 Sample Project
+ASP .NET MVC5 ソリューションをGitHubでソース管理するサンプルリポジトリ
